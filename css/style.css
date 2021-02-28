@@ -76,3 +76,18 @@ p {
     text-align: center;
     margin:20px;
 }
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 30px;
+
+}
+
+
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 8px;
+  }
+  
