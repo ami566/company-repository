@@ -1,0 +1,47 @@
+@import "reset.css";
+
+body {
+    margin-top: 30px;
+    background: #62b3e2;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+.container {
+    width: 1280px;
+    max-width: 100%;
+    margin: 0 auto;
+    background: rgb(165, 217, 241);
+    padding: 10px;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+.menu {
+    display: flex;
+    background: rgb(255, 255, 255);
+    padding: 10px 20px;
+}
+
+.menu-item {
+    margin: 0 10px;
+    padding: 10px 20px;
+}
+
+.menu-link {
+    color: #3879af;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
